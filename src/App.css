@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+/* modifiche mie */
+.blueBtn {
+  background-color: blue;
+  color: #61dafb;
+}
+
+.blueBtn:hover {
+  background-color: #61dafb;
+  color: blue;
+}
